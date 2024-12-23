@@ -1,0 +1,906 @@
+fileFormatVersion: 2
+guid: dc9a1e7d68a12e24c8bb50cfee03e0fa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 168
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358512c6dd314ea40b0c7f74879143e7
+      internalID: -1164614190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 172
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f39e5d26dab7e43977c8027dad7d76
+      internalID: -145251011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 170
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b139a663bf831641a4942fd64493a3d
+      internalID: 905236387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 144
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3dabb1c22a0da4688b623a0a363181
+      internalID: 1914050745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 144
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf88442d4e5f0b42a67a79e4b4ecd1e
+      internalID: 442072301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 144
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0509a4e2f5434c04dbf08412e6967fbe
+      internalID: -981979064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 165
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2ee0e2898cf6d42b3274f623c40c83
+      internalID: -2020160879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 144
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd549ea2ff94984fac2931080031984
+      internalID: -1772153089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 109
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b4a0b38d2d3324d9b88f0f93d57aa3
+      internalID: -1982863622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 108
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa799a6547f9eb478e16871246693c4
+      internalID: -544012243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 115
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd4c5b7ab01c8b4281c09881e963966
+      internalID: 1337913883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 112
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204b7a5e40e49cd4583cd0cfcdb06ce0
+      internalID: 1433063291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 119
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141ac38533f61854d97841a4baa2fa71
+      internalID: 790506516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 119
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f07cfbeae24fe4c89aea422ba1d1c2
+      internalID: -1905875485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 109
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90083a01cb3051e4fa7a308758277152
+      internalID: -63136681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 119
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dee7f639a28b244871ca8bf57d4226
+      internalID: -450433334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 119
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824a429f1bebddc439aa65cca6f2217d
+      internalID: 1722337684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 109
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2572ed6b947017d4ba7aa4aacfec0337
+      internalID: -886711360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 80
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ba5941e6d98bc4a8132a01db81a0c2
+      internalID: -2107993885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 106
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ff6f9d91cf98e4ca7fe37efa5c7311
+      internalID: -1912399672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 105
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e13b3bf281ae694696e7e6e9d78b024
+      internalID: -1566321304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 76
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c12399e40abda6478f1fd635434d957
+      internalID: -1328806331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 106
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f7b3bdc8a1f4d4ba22582019e2801e
+      internalID: -142650717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 105
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cf5be00712192499116c47d5df2c67
+      internalID: 688736610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 80
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0aca10c64848b44eae5f67cd59ec4f3
+      internalID: -1401831436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 80
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8095894a9c09b845a44ae97acedb6ec
+      internalID: 92755749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cb5843e6826db4882e6b3916061b3c
+      internalID: 1188955757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 55
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40881bc37213504a80ef3cda076d439
+      internalID: -139318408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 45
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ea04a6a3e67a944b369cd02ddca31f
+      internalID: -894986993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bbbe8615c1ef64fb1a80c8f2dcb983
+      internalID: -448819464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 55
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe8500e1e82e7e4289a95bc932301bd
+      internalID: 353295373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 45
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae9ad03c5253254dbe289f13d0540ae
+      internalID: 1434293656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f2fa794984d9e42af7da8f3c045479
+      internalID: 655635321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 16
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11abc20bd95368e48a11cd110b9d78b2
+      internalID: 868314616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 16
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54dfa49c4cf469743a20af7a000bf1d6
+      internalID: -1223901510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_explode_red-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 16
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0661a76b110d94fbcea96508e851b6
+      internalID: 722417878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      right_explode_red-Sheet_0: -1164614190
+      right_explode_red-Sheet_1: -145251011
+      right_explode_red-Sheet_10: 1337913883
+      right_explode_red-Sheet_11: 1433063291
+      right_explode_red-Sheet_12: 790506516
+      right_explode_red-Sheet_13: -1905875485
+      right_explode_red-Sheet_14: -63136681
+      right_explode_red-Sheet_15: -450433334
+      right_explode_red-Sheet_16: 1722337684
+      right_explode_red-Sheet_17: -886711360
+      right_explode_red-Sheet_18: -2107993885
+      right_explode_red-Sheet_19: -1912399672
+      right_explode_red-Sheet_2: 905236387
+      right_explode_red-Sheet_20: -1566321304
+      right_explode_red-Sheet_21: -1328806331
+      right_explode_red-Sheet_22: -142650717
+      right_explode_red-Sheet_23: 688736610
+      right_explode_red-Sheet_24: -1401831436
+      right_explode_red-Sheet_25: 92755749
+      right_explode_red-Sheet_26: 1188955757
+      right_explode_red-Sheet_27: -139318408
+      right_explode_red-Sheet_28: -894986993
+      right_explode_red-Sheet_29: -448819464
+      right_explode_red-Sheet_3: 1914050745
+      right_explode_red-Sheet_30: 353295373
+      right_explode_red-Sheet_31: 1434293656
+      right_explode_red-Sheet_32: 655635321
+      right_explode_red-Sheet_33: 868314616
+      right_explode_red-Sheet_34: -1223901510
+      right_explode_red-Sheet_35: 722417878
+      right_explode_red-Sheet_4: 442072301
+      right_explode_red-Sheet_5: -981979064
+      right_explode_red-Sheet_6: -2020160879
+      right_explode_red-Sheet_7: -1772153089
+      right_explode_red-Sheet_8: -1982863622
+      right_explode_red-Sheet_9: -544012243
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

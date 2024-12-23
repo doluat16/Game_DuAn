@@ -75,16 +75,19 @@
     <Compile Include="Assets\Levels\Scripts\Traps\Spikehead.cs" />
     <Compile Include="Assets\Levels\Scripts\Rooms\Room.cs" />
     <Compile Include="Assets\Levels\Scripts\Traps\ArrowTrap.cs" />
+    <Compile Include="Assets\Levels\Scripts\Enemy\RangedEnemy.cs" />
     <Compile Include="Assets\Levels\Scripts\Enemy\MeleeEnemy.cs" />
     <Compile Include="Assets\Levels\Scripts\Health\Healthbar.cs" />
     <Compile Include="Assets\Levels\Scripts\Traps\EnemyDamage.cs" />
     <Compile Include="Assets\Levels\Scripts\HealthCollectible.cs" />
     <Compile Include="Assets\Levels\Scripts\Traps\Firetrap.cs" />
     <Compile Include="Assets\Levels\Scripts\Traps\EnemyProjectile.cs" />
+    <Compile Include="Assets\Levels\Scripts\Enemy\EnemyFireballHolder.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Levels\Sprites\Knight Files\Read Me.txt" />
     <None Include="Assets\Levels\Sprites\Dragon Warrior Files\Read Me.txt" />
+    <None Include="Assets\Levels\Background\Japan\LICENSE.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
