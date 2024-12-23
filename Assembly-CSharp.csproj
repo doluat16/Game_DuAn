@@ -64,30 +64,30 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.30f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Levels\Scripts\Enemy\EnemyPatrol.cs" />
-    <Compile Include="Assets\Levels\Scripts\Health\Health.cs" />
-    <Compile Include="Assets\Levels\Scripts\Rooms\Door.cs" />
-    <Compile Include="Assets\Levels\Scripts\Core\CameraController.cs" />
-    <Compile Include="Assets\Levels\Scripts\Traps\Enemy_Sideways.cs" />
-    <Compile Include="Assets\Levels\Scripts\Player\Projectile.cs" />
-    <Compile Include="Assets\Levels\Scripts\Player\PlayerMovement.cs" />
-    <Compile Include="Assets\Levels\Scripts\Player\PlayerAttack.cs" />
-    <Compile Include="Assets\Levels\Scripts\Traps\Spikehead.cs" />
-    <Compile Include="Assets\Levels\Scripts\Rooms\Room.cs" />
-    <Compile Include="Assets\Levels\Scripts\Traps\ArrowTrap.cs" />
-    <Compile Include="Assets\Levels\Scripts\Enemy\RangedEnemy.cs" />
-    <Compile Include="Assets\Levels\Scripts\Enemy\MeleeEnemy.cs" />
-    <Compile Include="Assets\Levels\Scripts\Health\Healthbar.cs" />
-    <Compile Include="Assets\Levels\Scripts\Traps\EnemyDamage.cs" />
-    <Compile Include="Assets\Levels\Scripts\HealthCollectible.cs" />
-    <Compile Include="Assets\Levels\Scripts\Traps\Firetrap.cs" />
-    <Compile Include="Assets\Levels\Scripts\Traps\EnemyProjectile.cs" />
-    <Compile Include="Assets\Levels\Scripts\Enemy\EnemyFireballHolder.cs" />
+    <Compile Include="Assets\Scripts\Enemy\EnemyPatrol.cs" />
+    <Compile Include="Assets\Scripts\Enemy\EnemyFireballHolder.cs" />
+    <Compile Include="Assets\Scripts\Traps\EnemyDamage.cs" />
+    <Compile Include="Assets\Scripts\Health\Health.cs" />
+    <Compile Include="Assets\Scripts\Traps\ArrowTrap.cs" />
+    <Compile Include="Assets\Scripts\Traps\EnemyProjectile.cs" />
+    <Compile Include="Assets\Scripts\Health\Healthbar.cs" />
+    <Compile Include="Assets\Scripts\Traps\Firetrap.cs" />
+    <Compile Include="Assets\Scripts\Player\PlayerAttack.cs" />
+    <Compile Include="Assets\Scripts\HealthCollectible.cs" />
+    <Compile Include="Assets\Scripts\Rooms\Room.cs" />
+    <Compile Include="Assets\Scripts\Rooms\Door.cs" />
+    <Compile Include="Assets\Scripts\Core\CameraController.cs" />
+    <Compile Include="Assets\Scripts\Player\Projectile.cs" />
+    <Compile Include="Assets\Scripts\Enemy\MeleeEnemy.cs" />
+    <Compile Include="Assets\Scripts\Traps\Enemy_Sideways.cs" />
+    <Compile Include="Assets\Scripts\Enemy\RangedEnemy.cs" />
+    <Compile Include="Assets\Scripts\Player\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\Traps\Spikehead.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Levels\Sprites\Knight Files\Read Me.txt" />
-    <None Include="Assets\Levels\Sprites\Dragon Warrior Files\Read Me.txt" />
-    <None Include="Assets\Levels\Background\Japan\LICENSE.txt" />
+    <None Include="Assets\Sprites\Knight Files\Read Me.txt" />
+    <None Include="Assets\Sprites\Dragon Warrior Files\Read Me.txt" />
+    <None Include="Assets\Background\Japan\LICENSE.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
