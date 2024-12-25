@@ -11,7 +11,8 @@ public class PlayerAttack : MonoBehaviour
 
     private Animator anim;
     private PlayerMovement playerMovement;
-    private float cooldownTimer =Mathf.Infinity;
+    private float cooldownTimer = 0;
+    private float fireRate = .3f;
 
     private void Awake()
     {
@@ -21,26 +22,25 @@ public class PlayerAttack : MonoBehaviour
 
     private void Update()
     {
-        if(Input.GetMouseButton(0) && cooldownTimer > attackCooldown && playerMovement.canAttack())
-            Attack();
-        cooldownTimer += Time.deltaTime;
-
+        if (Input.GetMouseButtonDown(0) && Time.time > cooldownTimer + fireRate && playerMovement.canAttack())
+        {
+            cooldownTimer = Time.time;
+            anim.SetTrigger("attack");
+        }
     }
 
-    private void Attack()
+    public void Attack()
     {
         anim.SetTrigger("attack");
-        cooldownTimer = 0;
-
         fireballs[FindFireball()].transform.position = firePoint.position;
         fireballs[FindFireball()].GetComponent<Projectile>().SetDirection(Mathf.Sign(transform.localScale.x));
     }
 
     private int FindFireball()
     {
-        for(int i=0; i<fireballs.Length; i++)
+        for (int i = 0; i < fireballs.Length; i++)
         {
-            if(!fireballs[i].activeInHierarchy)
+            if (!fireballs[i].activeInHierarchy)
                 return i;
         }
         return 0;
