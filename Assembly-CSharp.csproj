@@ -66,6 +66,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Enemy\EnemyPatrol.cs" />
     <Compile Include="Assets\Scripts\Enemy\EnemyFireballHolder.cs" />
+    <Compile Include="Assets\Scripts\Traps\Bomb.cs" />
     <Compile Include="Assets\Scripts\Traps\EnemyDamage.cs" />
     <Compile Include="Assets\Scripts\Health\Health.cs" />
     <Compile Include="Assets\Scripts\Traps\ArrowTrap.cs" />
