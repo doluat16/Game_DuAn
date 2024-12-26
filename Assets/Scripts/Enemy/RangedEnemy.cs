@@ -54,7 +54,7 @@ public class RangedEnemy : MonoBehaviour
 
         cooldownTimer += Time.deltaTime;
 
-        // Attack only when player in sight
+        // Tấn công chỉ khi Player trong tầm nhìn
         if (PlayerInSight())
         {
             if (cooldownTimer >= attackCooldown)
@@ -63,16 +63,24 @@ public class RangedEnemy : MonoBehaviour
                 anim.SetTrigger("rangedAttack");
             }
         }
-
+        else
+        {
+        anim.ResetTrigger("rangedAttack"); // Ngừng Animation nếu không thấy Player
+        }
+        // Dừng hoặc tiếp tục Patrol dựa trên trạng thái Player
         if (enemyPatrol != null)
             enemyPatrol.enabled = !PlayerInSight();
     }
 
     private void RangedAttack()
     {
-        cooldownTimer = 0;
-        fireballs[FindFireball()].transform.position = firepoint.position;
-        fireballs[FindFireball()].GetComponent<EnemyProjectile>().ActivateProjectile();
+        if(PlayerInSight())
+        {
+            cooldownTimer = 0;
+            fireballs[FindFireball()].transform.position = firepoint.position;
+            fireballs[FindFireball()].GetComponent<EnemyProjectile>().ActivateProjectile();
+        }
+           
     }
 
     private int FindFireball()
