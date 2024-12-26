@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\Traps\EnemyDamage.cs" />
     <Compile Include="Assets\Scripts\Health\Health.cs" />
     <Compile Include="Assets\Scripts\Traps\ArrowTrap.cs" />
+    <Compile Include="Assets\Scripts\Player\SpongeBullet.cs" />
     <Compile Include="Assets\Scripts\Traps\EnemyProjectile.cs" />
     <Compile Include="Assets\Scripts\Health\Healthbar.cs" />
     <Compile Include="Assets\Scripts\Traps\Firetrap.cs" />
@@ -76,6 +77,7 @@
     <Compile Include="Assets\Scripts\Player\Projectile.cs" />
     <Compile Include="Assets\Scripts\Enemy\MeleeEnemy.cs" />
     <Compile Include="Assets\Scripts\Traps\Enemy_Sideways.cs" />
+    <Compile Include="Assets\Scripts\Player\PlayerInventory.cs" />
     <Compile Include="Assets\Scripts\Enemy\RangedEnemy.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Traps\Spikehead.cs" />

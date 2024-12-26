@@ -27,33 +27,33 @@ public class PlayerMovement : MonoBehaviour
     {
         horizontalInput = Input.GetAxisRaw("Horizontal");
         // Flip player when moving left-right
-        if(horizontalInput > 0.01f)
+        if (horizontalInput > 0.01f)
         {
-            transform.localScale = new Vector3(5,5,1);
+            transform.localScale = new Vector3(1, 1, 1);
         }
-        else if(horizontalInput < -0.01f)
+        else if (horizontalInput < -0.01f)
         {
-            transform.localScale = new Vector3(-5,5,1); //khi player quay ngược lại, thì mặt cũng phải quay ngc lại theo trục x
+            transform.localScale = new Vector3(-1, 1, 1); //khi player quay ngược lại, thì mặt cũng phải quay ngc lại theo trục x
         }
 
         //Set animator parameters
-        anim.SetBool("run", horizontalInput != 0);
-        anim.SetBool("grounded", isGrounded()); 
+        anim.SetFloat("velocityX", Mathf.Abs(horizontalInput));
+        anim.SetBool("grounded", isGrounded());
         //Wall jump logic
-        if(wallJumpCoolDown > 0.2f)
+        if (wallJumpCoolDown > 0.2f)
         {
-            
+
             body.velocity = new Vector2(horizontalInput * speed, body.velocity.y);
-            if(onWall() && !isGrounded())
+            if (onWall() && !isGrounded())
             {
                 body.gravityScale = 0;
                 body.velocity = Vector2.zero;
             }
             else
                 body.gravityScale = 7;
-            if(Input.GetKey(KeyCode.Space)&& isGrounded())
+            if (Input.GetKeyDown(KeyCode.Space) && isGrounded())
                 Jump();
-            
+
         }
         else
             wallJumpCoolDown += Time.deltaTime;
@@ -61,23 +61,23 @@ public class PlayerMovement : MonoBehaviour
 
     private void Jump()
     {
-        if(isGrounded())
+        if (isGrounded())
         {
             body.velocity = new Vector2(body.velocity.x, jumpPower);
             anim.SetTrigger("jump");
         }
-        else if(onWall() && !isGrounded())
+        else if (onWall() && !isGrounded())
         {
-            if(horizontalInput == 0)
+            if (horizontalInput == 0)
             {
-                body.velocity = new Vector2(-Mathf.Sign(transform.localScale.x)*10, 0);
+                body.velocity = new Vector2(-Mathf.Sign(transform.localScale.x) * 10, 0);
                 transform.localScale = new Vector3(-Mathf.Sign(transform.localScale.x), transform.localScale.y, transform.localScale.z);
             }
             else
-                body.velocity = new Vector2(-Mathf.Sign(transform.localScale.x)*3, 6); 
+                body.velocity = new Vector2(-Mathf.Sign(transform.localScale.x) * 3, 6);
             wallJumpCoolDown = 0;
         }
-       // grounded = false;
+        // grounded = false;
     }
 
     private bool isGrounded()
@@ -91,10 +91,4 @@ public class PlayerMovement : MonoBehaviour
         RaycastHit2D raycastHit = Physics2D.BoxCast(boxCollider.bounds.center, boxCollider.bounds.size, 0, new Vector2(transform.localScale.x, 0), 0.1f, wallLayer);
         return raycastHit.collider != null;
     }
-
-    public bool canAttack()
-    {
-        return horizontalInput == 0 && isGrounded() && !onWall();
-    } 
-
 }

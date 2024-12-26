@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class PlayerAttack : MonoBehaviour
 {
-    [SerializeField] private float attackCooldown;
-    [SerializeField] private Transform firePoint; // vt đạn
-    [SerializeField] private GameObject[] fireballs; // đặt 10 quả cầu lửa trong này
-
+    [SerializeField] private Transform firePoint;
+    [SerializeField] private GameObject[] fireballs;
+    [SerializeField] private GameObject[] spongeBullet;
+    [SerializeField] private GameObject muzzleFlash;
 
     private Animator anim;
     private PlayerMovement playerMovement;
@@ -22,18 +22,21 @@ public class PlayerAttack : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetMouseButtonDown(0) && Time.time > cooldownTimer + fireRate && playerMovement.canAttack())
+        if (Input.GetMouseButton(0) && Time.time > cooldownTimer + fireRate)
         {
             cooldownTimer = Time.time;
             anim.SetTrigger("attack");
         }
     }
 
-    public void Attack()
+    public IEnumerator Attack()
     {
-        anim.SetTrigger("attack");
+        muzzleFlash.SetActive(true);
         fireballs[FindFireball()].transform.position = firePoint.position;
         fireballs[FindFireball()].GetComponent<Projectile>().SetDirection(Mathf.Sign(transform.localScale.x));
+        spongeBullet[FindSpongeBullet()].SetActive(true);
+        yield return new WaitForSeconds(.02f);
+        muzzleFlash.SetActive(false);
     }
 
     private int FindFireball()
@@ -46,4 +49,13 @@ public class PlayerAttack : MonoBehaviour
         return 0;
     }
 
+    private int FindSpongeBullet()
+    {
+        for (int i = 0; i < spongeBullet.Length; i++)
+        {
+            if (!spongeBullet[i].activeInHierarchy)
+                return i;
+        }
+        return 0;
+    }
 }
