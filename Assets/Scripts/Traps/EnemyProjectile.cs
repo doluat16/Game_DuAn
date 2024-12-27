@@ -1,40 +1,3 @@
-// using System.Collections;
-// using System.Collections.Generic;
-// using UnityEngine;
-
-// public class EnemyProjectile : EnemyDamage //Will damage the player every time they touch
-// {
-//     [SerializeField] private float speed;
-//     [SerializeField] private float resetTime;
-//     private float lifetime;
-//     public void SetDirection(float _direction )
-//     {
-
-//     }
-
-//      public void ActivateProjectile()
-//     {
-//         lifetime = 0;
-//         gameObject.SetActive(true); // kích hoạt đạn
-//     }
-
-//     private void Update()
-//     {
-//         float movementSpeed = speed * Time.deltaTime;
-//         transform.Translate(movementSpeed, 0, 0);
-
-//         lifetime += Time.deltaTime;
-//         if(lifetime > resetTime)
-//             gameObject.SetActive(false);
-//     }
-
-//     private void OnTriggerEnter2D(Collider2D collision)
-//     {
-//         base.OnTriggerEnter2D(collision); //Excute logic from parent script first
-//         gameObject.SetActive(false); //when this hits any object deactive arrow
-//     }
-// }
-
 using UnityEngine;
 
 public class EnemyProjectile : EnemyDamage
@@ -71,17 +34,34 @@ public class EnemyProjectile : EnemyDamage
             gameObject.SetActive(false);
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        hit = true;
-        base.OnTriggerEnter2D(collision); //Execute logic from parent script first
-        coll.enabled = false;
+    // private void OnTriggerEnter2D(Collider2D collision)
+    // {
+    //     hit = true;
+    //     base.OnTriggerEnter2D(collision); //Execute logic from parent script first
+    //     coll.enabled = false;
 
-        if (anim != null)
-            anim.SetTrigger("explode"); //When the object is a fireball explode it
-        else
-            gameObject.SetActive(false); //When this hits any object deactivate arrow
+    //     if (anim != null)
+    //         anim.SetTrigger("explode"); //When the object is a fireball explode it
+    //     else
+    //         gameObject.SetActive(false); //When this hits any object deactivate arrow
+    // }
+     private void OnTriggerEnter2D(Collider2D collision)
+    {
+    // Kiểm tra nếu va chạm với Player
+        if (collision.CompareTag("Player"))
+        {
+            collision.GetComponent<Health>()?.TakeDamage(damage); // Gây sát thương cho Player
+            gameObject.SetActive(false); // Tắt viên đạn
+        }
+
+        // Loại trừ Bomb (hoặc bất kỳ đối tượng không mong muốn nào khác)
+        if (collision.CompareTag("Bomb"))
+        {
+            // Logic bỏ qua va chạm với Bomb
+            return;
+        }
     }
+
     private void Deactivate()
     {
         gameObject.SetActive(false);
