@@ -66,10 +66,12 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Enemy\EnemyPatrol.cs" />
     <Compile Include="Assets\Scripts\Enemy\EnemyFireballHolder.cs" />
+    <Compile Include="Assets\LightningEnergy.cs" />
     <Compile Include="Assets\Scripts\Traps\Bomb.cs" />
     <Compile Include="Assets\Scripts\Traps\EnemyDamage.cs" />
     <Compile Include="Assets\Scripts\Health\Health.cs" />
     <Compile Include="Assets\Scripts\Traps\ArrowTrap.cs" />
+    <Compile Include="Assets\Scripts\Traps\ElectricEnergy.cs" />
     <Compile Include="Assets\Scripts\Traps\EnemyProjectile.cs" />
     <Compile Include="Assets\Scripts\Health\Healthbar.cs" />
     <Compile Include="Assets\Scripts\Traps\Firetrap.cs" />
@@ -78,6 +80,7 @@
     <Compile Include="Assets\Scripts\Rooms\Room.cs" />
     <Compile Include="Assets\Scripts\Rooms\Door.cs" />
     <Compile Include="Assets\Scripts\Core\CameraController.cs" />
+    <Compile Include="Assets\MagicTrap.cs" />
     <Compile Include="Assets\Scripts\Player\Projectile.cs" />
     <Compile Include="Assets\Scripts\Enemy\MeleeEnemy.cs" />
     <Compile Include="Assets\Scripts\Traps\Enemy_Sideways.cs" />
