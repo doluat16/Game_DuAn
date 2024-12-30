@@ -44,7 +44,8 @@ public class Health : MonoBehaviour
                 //Deactivate all attached componen classes
                 foreach (Behaviour component in components)
                 {
-                    component.enabled = false;
+                    if (component != null)
+                        component.enabled = false;
                 }
                 dead = true;
             }

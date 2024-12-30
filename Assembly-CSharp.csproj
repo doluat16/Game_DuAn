@@ -61,8 +61,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Enemy\EnemyPatrol.cs" />
+    <Compile Include="Assets\Scripts\Items\Item.cs" />
     <Compile Include="Assets\Scripts\Enemy\EnemyFireballHolder.cs" />
+    <Compile Include="Assets\Scripts\Items\ItemType.cs" />
     <Compile Include="Assets\Scripts\Traps\EnemyDamage.cs" />
+    <Compile Include="Assets\Scripts\Effect.cs" />
+    <Compile Include="Assets\Scripts\Player\Inventory.cs" />
+    <Compile Include="Assets\Scripts\Items\ItemCollectable.cs" />
     <Compile Include="Assets\Scripts\Health\Health.cs" />
     <Compile Include="Assets\Scripts\Traps\ArrowTrap.cs" />
     <Compile Include="Assets\Scripts\Player\SpongeBullet.cs" />
@@ -73,11 +78,11 @@
     <Compile Include="Assets\Scripts\HealthCollectible.cs" />
     <Compile Include="Assets\Scripts\Rooms\Room.cs" />
     <Compile Include="Assets\Scripts\Rooms\Door.cs" />
+    <Compile Include="Assets\Scripts\Items\Granade.cs" />
     <Compile Include="Assets\Scripts\Core\CameraController.cs" />
     <Compile Include="Assets\Scripts\Player\Projectile.cs" />
     <Compile Include="Assets\Scripts\Enemy\MeleeEnemy.cs" />
     <Compile Include="Assets\Scripts\Traps\Enemy_Sideways.cs" />
-    <Compile Include="Assets\Scripts\Player\PlayerInventory.cs" />
     <Compile Include="Assets\Scripts\Enemy\RangedEnemy.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Traps\Spikehead.cs" />

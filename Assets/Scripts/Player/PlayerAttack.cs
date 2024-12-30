@@ -13,7 +13,7 @@ public class PlayerAttack : MonoBehaviour
     private PlayerMovement playerMovement;
     private float cooldownTimer = 0;
     private float fireRate = .3f;
-
+    public Inventory inventory;
     private void Awake()
     {
         anim = GetComponent<Animator>();
@@ -26,6 +26,11 @@ public class PlayerAttack : MonoBehaviour
         {
             cooldownTimer = Time.time;
             anim.SetTrigger("attack");
+        }
+
+        if (Input.GetMouseButtonDown(1))
+        {
+            inventory.UseItem();
         }
     }
 
