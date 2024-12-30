@@ -6,18 +6,17 @@ using UnityEngine.UI; // Đảm bảo đã thêm dòng này
 public class Healthbar : MonoBehaviour
 {
     [SerializeField] private Health playerHealth;
-    [SerializeField] private Image totalhealthBar;
-    [SerializeField] private Image currenthealthBar;
+    [SerializeField] private Slider healthSlider;
 
     private void Start()
     {
         // Khởi tạo thanh máu tổng ban đầu (nếu cần)
-      totalhealthBar.fillAmount = playerHealth.currentHealth / 10;
+        healthSlider.maxValue = playerHealth.startingHealth;
     }
 
     private void Update()
     {
         // Cập nhật thanh máu hiện tại dựa trên máu của player
-        currenthealthBar.fillAmount = playerHealth.currentHealth / 10;
+        healthSlider.value = playerHealth.currentHealth;
     }
 }
