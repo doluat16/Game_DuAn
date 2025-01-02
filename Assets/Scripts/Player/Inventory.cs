@@ -5,14 +5,16 @@ using UnityEngine;
 public class Inventory : MonoBehaviour
 {
     [SerializeField] private Item item;
-
+    [SerializeField] private int slot;
     public void UseItem()
     {
         if (item != null)
         {
             Item newItem = Instantiate(item, this.transform.position, Quaternion.identity);
             newItem.Excute();
-            item = null;
+            slot--;
+            if (slot <= 0)
+                item = null;
         }
     }
 
@@ -21,6 +23,10 @@ public class Inventory : MonoBehaviour
         if (_item != null && item == null)
         {
             item = _item.item;
+        }
+        else if (_item.item.nameItem == item.nameItem)
+        {
+            slot++;
         }
     }
 }

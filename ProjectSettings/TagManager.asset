@@ -15,12 +15,12 @@ TagManager:
   - Water
   - UI
   - 
-  - 
+  - Collectable
   - Ground
   - Wall
   - Player
   - Enemy
-  - 
+  - Projectile
   - 
   - 
   - 

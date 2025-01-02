@@ -4,7 +4,7 @@ using UnityEngine;
 
 public abstract class Item : MonoBehaviour
 {
-    protected string nameItem;
-    protected ItemType type;
+    public string nameItem;
+    public ItemType type;
     public abstract void Excute();
 }

@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1889284488661817791}
   - component: {fileID: 4368793167565456896}
   - component: {fileID: 7761892152641675553}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HealthCollectible
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -143,4 +143,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f0fcaf373a4bcfc4c9fa2498334360a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  healthValue: 1
+  healthValue: 20

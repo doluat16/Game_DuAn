@@ -1,21 +1,33 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using static UnityEditor.Experimental.GraphView.GraphView;
 
 public class Projectile : MonoBehaviour
 {
     [SerializeField] private float speed;
+    [SerializeField] private LayerMask[] target;
     private float direction;
     private bool hit;
     private float lifetime;
     private Animator anim;
     private BoxCollider2D boxCollider;
+    private float damage;
 
-
+    private List<int> layerValues = new List<int>();
     private void Awake()
     {
         anim = GetComponent<Animator>();
         boxCollider = GetComponent<BoxCollider2D>();
+    }
+
+    private void Start()
+    {
+        foreach (LayerMask _target in target)
+        {
+            int layerValue = (int)Mathf.Log(_target.value, 2);
+            layerValues.Add(layerValue);
+        }
     }
 
     private void Update()
@@ -35,9 +47,12 @@ public class Projectile : MonoBehaviour
         if (anim != null)
             anim.SetTrigger("explode");
         else Deactivate();
-        //if(collision.tag == "Enemy" && collision.GetComponent<Health>() != null )
-        if (collision.CompareTag("Enemy") && collision.GetComponent<Health>() != null)
-            collision.GetComponent<Health>().TakeDamage(1);
+
+        Debug.Log(collision.gameObject.layer);
+        if (layerValues.Contains(collision.gameObject.layer) && collision.GetComponent<Health>() != null)
+        {
+            collision.GetComponent<Health>().TakeDamage(damage);
+        }
     }
 
     public void SetDirection(float _direction)
@@ -58,6 +73,11 @@ public class Projectile : MonoBehaviour
     private void Deactivate()
     {
         gameObject.SetActive(false);
+    }
+
+    public void SetDamage(float _damage)
+    {
+        damage = _damage;
     }
 }
 // using UnityEngine;
