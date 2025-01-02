@@ -1,0 +1,4976 @@
+fileFormatVersion: 2
+guid: 517163b796cc0c245a2520fb8ff0a342
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BulletBlue_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 746
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bb98a9b799b0d4eaca3747afd10f61
+      internalID: 835697790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 742
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab51ba6bae487e45a6c6c634d091041
+      internalID: 534867722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 676
+        width: 52
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d626da87e36a7a0439545e794a920a4a
+      internalID: -109499300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 682
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111cc3909dc285845afd58045be67c3b
+      internalID: 1324245224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 718
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca1336675f5e9b46a5312eacb3f78c5
+      internalID: -1294068055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 679
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1342b25e7d50070419a0dbeb4a5420c6
+      internalID: 1493573427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 712
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861970afec917ab4fb8b0c41914f728b
+      internalID: 212258084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 689
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13d9f45aa692fd42a5f7efb5c9f2d93
+      internalID: 1391517751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 681
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89983b1e909cab409361f1b5ea0c957
+      internalID: 1671501946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 689
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00edd1db28e81504e881c96daeee701f
+      internalID: 2047646446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 705
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc1d51c7e3749549bc742db549621b9
+      internalID: -1358050096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 685
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e85ab4fb84a294eb9e915e54dc9f54
+      internalID: 840569965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 690
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a683ce6d0f8724ba56a33201eaddc6
+      internalID: -1510469429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 680
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2c6f1b0c5185749a94728d863e066e
+      internalID: -680405876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_14
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 677
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269a83348637474438319a68b952d46d
+      internalID: -962661682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 690
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9868698e07baa34eb4178f4b6ab1866
+      internalID: 1192760735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 685
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1351be8ad895db4e83bae45be4b931b
+      internalID: 1945188123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 690
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce59bb06518a0a44b4ae89132c3a380
+      internalID: 1153085826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_18
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 680
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284cf62f722895d4cbed6a28dfbd7c2f
+      internalID: -6056420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_19
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 722
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1f333365e7c244c985c17b48110ed4
+      internalID: 160223318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_20
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 716
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906a6b98c930fee41b5760635e595af9
+      internalID: 901254129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_21
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 727
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ef022530ddc79418853fa997138d5d
+      internalID: -299665192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_22
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 716
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081a47c335877b04b8b6cc9510da36a8
+      internalID: -2006118003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 676
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076d72f1800e4144f920805183681e72
+      internalID: 907373731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_24
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 641
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1b07f9ad5c997429f248c66da47297
+      internalID: -224692102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_25
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 641
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7248ca46a0191a4aa62c75988e8fb84
+      internalID: 1331477163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_26
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 643
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70774fef6939ff14ebc3cd71b95ca049
+      internalID: 2094381040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_27
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 633
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1c494f2ab438f48a9b5d4a188372b2
+      internalID: -511858183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_28
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 655
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff9c833d8e44bf4abfa519d96604c55
+      internalID: -1141355835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_29
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 643
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5261c9673d31b4dbb3beefb6112a29
+      internalID: 1775884201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_30
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 608
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee969af4a1d263944937251f1e32171f
+      internalID: -1906379383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_31
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 613
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a38e95b048c32469372934a589f5bb
+      internalID: 1649518724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_32
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 613
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9dd9f19865c4b42b7a480f97301ca5
+      internalID: 357999008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_33
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 619
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fc2f96282fdf1499a53d1f2ac55623
+      internalID: -1338815998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_34
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 625
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fab281e56dca54ab6d417736d7717e
+      internalID: -857476631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_35
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 608
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc86ee7ad55c2fc48b5ff80055a20ed4
+      internalID: 814807908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_36
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 615
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0821f029886897b498273861de486463
+      internalID: 717107200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_37
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 608
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5416502c6f90e704b9fe8ff3490e5a03
+      internalID: 113825476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_38
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 585
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e867bdd5deeaa468b4c631383435b0
+      internalID: -163798801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_39
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 584
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0acc49fe8b37d0439f0b42d0ade6e9e
+      internalID: 617829637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_40
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 583
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba330d5270421540879a49d977f1b7a
+      internalID: 4330256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_41
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 598
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df61c86498500a4692603f9f023a2d1
+      internalID: 1448722113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_42
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 589
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea5100593ea046448076ce420baf9b0
+      internalID: -1686351806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_43
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 587
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26aa1d23361ae17489d8e63ec1c2a8e4
+      internalID: 1300918949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_44
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 592
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82226b2994ba1d04fb1773432e4b70e6
+      internalID: 681551400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_45
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 584
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf627f736ea3b744798076ee1565b67d
+      internalID: -671837509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_46
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 554
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463a9260551a40448b8b9d71c8b97f60
+      internalID: 733190141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_47
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 549
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12803a2ab2fba8144ac45df489bbe046
+      internalID: -1741030278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_48
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 558
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fd58a5b519f2747853b9de4d127ff6
+      internalID: -2056400141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_49
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 546
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c41419f5f576204fbeefef50cf5aedd
+      internalID: 976461457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_50
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 565
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9506cb4738ddf44296afd3d9baf156d
+      internalID: -785758418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_51
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 563
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0febd615179d6a347bb4560f7ae6b215
+      internalID: 1375228821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_52
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 551
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbf12a7bf0a87f4d9a2f1772b001a36
+      internalID: -1377194043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_53
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 558
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdabc378d9f17514d866205f84762d28
+      internalID: 357770851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_54
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 556
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abfd73eef8ebf941a458ca21885e862
+      internalID: 437191098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_55
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 567
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c279ee3fa2576f47b8badfec2ec1978
+      internalID: -608141790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_56
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 559
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b84682c3683004187dbb33097db8cf
+      internalID: -997838697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_57
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 550
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7436bfb9c2c67a348b9603334bd28b97
+      internalID: 1655857763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 556
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51e8f285f4da54448a20f32d31521e0
+      internalID: 81605168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_59
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 549
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65492c75428cec54582888da01dfe71b
+      internalID: -1370947877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_60
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 568
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd8e9bd2f9159c47a984fc0659bea8a
+      internalID: 930552944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_61
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 521
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd56588588e7f2244ae69bc0a74d9eb2
+      internalID: -2055174070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_62
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 519
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426f96921f1cf644995724431557e3c0
+      internalID: -1076118071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_63
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 518
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d1fe826b0668e4f809390d588e8e7c
+      internalID: -471268527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_64
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 518
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfd7e31a47418c44922e0a5f08b285a
+      internalID: -1365967820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_65
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 545
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760644156a23aae42aa4912fc0f855fa
+      internalID: 1384181523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_66
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 527
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71ae2f8e262afa4997fa92a73a3208e
+      internalID: 1963480471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_67
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 536
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e18c2a50a2c7934ab1714697b66b988
+      internalID: -1758755716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_68
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 524
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33cd526f62a3e34094ee15b3dd6c3e8
+      internalID: 999944389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_69
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 525
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7307a60f97b6d4649a6c1704b941d0de
+      internalID: -1867611172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_70
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 529
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d550f95c95589449a7d432853bde9be
+      internalID: -1531736094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_71
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 525
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a307b37fb359ad43a33cb8bc8238b48
+      internalID: -1688407088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_72
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 533
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6377d74dadb57624784cfb743ab7a2c1
+      internalID: -1244176300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_73
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 526
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23a531e85ad26e43b3cceee2ad9e230
+      internalID: -1635859357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_74
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 492
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb7abe10dd406443b33aa75ec27f635
+      internalID: -1744620689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_75
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c573af99d6587664e846eb0f7f9e89c5
+      internalID: -1851052912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_76
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 484
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58da4681fec744147a72d30d7badd17f
+      internalID: -744778614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_77
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 485
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f76368bbb478b458de12253a9281a0
+      internalID: -1687493351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_78
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 501
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792b69b252e40bc429928b550cf8add3
+      internalID: 2121433620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_79
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 493
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de8c9ea4654e5f43a23e0c196962120
+      internalID: 203910921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_80
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 519
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668683d8c2450154bb0b1819ad029610
+      internalID: -771280265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_81
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 487
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388153ad858914a4cb9a38172919b331
+      internalID: 1388965137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_82
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 519
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef3c79f2b6ca344ba22936bf973a5ec
+      internalID: 709837005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_83
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 489
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89a7a04368b07545a9f23dcc28e52b8
+      internalID: -1080042967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_84
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 456
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9262ccf31c13f43a24ec3601b1a8de
+      internalID: -1926511763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_85
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 450
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99756bf7b7269584e86d66c3928bf1e7
+      internalID: -1300856671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc167316d45632848a7d073b93f5987f
+      internalID: 2126474931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_87
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 469
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1874d09b376181f408e3a4c2588f2781
+      internalID: -1422221781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_88
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 471
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca50a0e50687de54a882b8ccfe49aeb5
+      internalID: -1020763775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_89
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 469
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d26fe549c68bd4191e2cb2b6b3eac5
+      internalID: -1222411442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_90
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 457
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b315decc73d66142b15314955956a91
+      internalID: -1244082153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_91
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 460
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3580e0cc753df45a4a2db1a455b46f
+      internalID: 458201834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_92
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 459
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f3d66da63ad514e8fbc5b83037f48c
+      internalID: -234429911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_93
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 450
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095e8bf3de5fd2447b9c0a302453646f
+      internalID: 1128977812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_94
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 448
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcaf18a9f287b784d8fc25f71de2d250
+      internalID: -1564405416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_95
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 450
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b2be1b9ec42b54383abe030c80133e
+      internalID: -1102885235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_96
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 417
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521a8cc64427d43439c30e67d4f597b1
+      internalID: -2052072697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 417
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd2cb374e885a7408a4525560b1162e
+      internalID: 1717490242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 417
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5d13137371ebd43a9a7ef54abe6a56
+      internalID: -1141152268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 417
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b6e1cd9616cc1499b621d36d1787c2
+      internalID: 389805815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 417
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7dd1e6b9c1c22468917b6bab082b47
+      internalID: 989265480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_101
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 384
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11209afc3db469b4bb78306f56085322
+      internalID: 1664942796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_102
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 384
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa3b3c62e9ea9444b42acee298d9068
+      internalID: -1722402233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_103
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 384
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70656f7f449772b428519aa052cc6e61
+      internalID: 1562141816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_104
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 406
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1772edd59adbeaf4191753bbe3e0fa98
+      internalID: -1710455889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_105
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 382
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88128eae366aed94981e76f2a3dfd881
+      internalID: -269000844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_106
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 357
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35cc17fe542b2148a165680c297b5d8
+      internalID: 1023150445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_107
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 354
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe4b8489b4b0774095c27e69f2d9eef
+      internalID: -27559062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_108
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 353
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3169130f3f164f04387012a9b80d9714
+      internalID: -1208022336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_109
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 349
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4359844f2716eea43abeb3470505f619
+      internalID: -576278135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_110
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 375
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9010eb98f78ac45ba61c8cba434780
+      internalID: 974666895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_111
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 378
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5569f097c6423734fb81ebe5c17cf4dd
+      internalID: 48504946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_112
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 374
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39628a9839f6d884a8a1efd2274fbc25
+      internalID: -1604394892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_113
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 374
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f63738abc116e1448d05865b80411e3
+      internalID: 70770106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_114
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 362
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7859cd7275a4a49969281e75e1d293
+      internalID: 1060837427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_115
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 355
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41b51a46bf32144a83a41e0e27a2969
+      internalID: 1842749548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_116
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 357
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c64a10d73c29a40b63b1c2b7c09993
+      internalID: -868962354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_117
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 352
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082d1b52beb557e4eb33558118ff4a65
+      internalID: 465618716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_118
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 357
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a4c933d9eec59499918fa99a7b6dcc
+      internalID: -1202113745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_119
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 355
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d80282079beff244820055282e3ff4b
+      internalID: -1272970285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_120
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 322
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a11067642c94f4494515d00126ccda
+      internalID: -1707065251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_121
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 322
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf73481115bb4541aa317d76a3b2e10
+      internalID: 1209396713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_122
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 345
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de18e2ef93c42c4cafc97f0e74e8a50
+      internalID: -402620409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_123
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 321
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c756a812b213a849a495c21eddb54cd
+      internalID: 19551679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_124
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 323
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cffbdfc9c89f21418d083bca57025a2
+      internalID: 815552866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_125
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 343
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a01b622f8819a48abc2f6153ed881e
+      internalID: -488685640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_126
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 315
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef94d79dcb91c6c49b74552dc8f3783e
+      internalID: -1436700637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_127
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 331
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86364215b450b5f4f8e6805cf350e831
+      internalID: -1561526217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_128
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 325
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91d2b76cc818234686102bf6b037bb1
+      internalID: 1671651047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_129
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 320
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5745f0612b297247a1cf74727fa2ba6
+      internalID: -1899366017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_130
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 290
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543459ca013c0a144994f30a516f007b
+      internalID: -860279904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_131
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 311
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308f1eed5e327ee4e80e6e60879da965
+      internalID: 646067388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_132
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 290
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8013ae0f99ae3a4fa5942a471583d52
+      internalID: 858902373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_133
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 309
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5383e0b22fba6ae49992e94956999bc1
+      internalID: 653453955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_134
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 311
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b5f2e366c14d5489d73338bdab07e9
+      internalID: -676267761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_135
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 309
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67237682127bec4eab5c6909d86c84e
+      internalID: -822063989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_136
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 302
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d7d80c4ac6d0349a47a45f1d18f178
+      internalID: -261767807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_137
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 302
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca76970726efab4f971e38068d92779
+      internalID: 270183891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_138
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 295
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf899360905dc54d9b94bd6a269e1a5
+      internalID: -1985495945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_139
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 301
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fcd3a9f47418d479f595f8b8b139ce
+      internalID: -39968669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_140
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 306
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a92cdc950d0dd24e8c16cbd3ef644f3
+      internalID: 1323934094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_141
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 306
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3062113118ebe4aa95f151c2085f76
+      internalID: -1579759375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_142
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 301
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ceba428a2a0e64e8c07919d5ee2fbe
+      internalID: -429325444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_143
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 294
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d230ad9cf4110428a045dadd3a9c9c
+      internalID: 303086980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_144
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 292
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d488663cec317054c8fed13adc017a59
+      internalID: -1837718202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_145
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 298
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f486bee4450a2e441b722a8e54c6b0a2
+      internalID: -1654104489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_146
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 298
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1940dc06a58f54cb64eb3639fe70c5
+      internalID: 1985748879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_147
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 292
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3867d4fee12d2c741bea2abaa0a2202e
+      internalID: 1430169550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_148
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 290
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf48c209c328204b985ebd97fae8e93
+      internalID: 1359549431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_149
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 282
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2d90fc7ffa00b47a5272a7e978afab
+      internalID: -1673300640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_150
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 290
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490c0dd201070484f9b08b0ef6d7abd9
+      internalID: 1055244208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_151
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 257
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a14bb68df429204697493ab00758042
+      internalID: 602221332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_152
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 256
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef326b58b4015e2428cb428e8f1fc155
+      internalID: -1368909001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_153
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 256
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8d199ff6822f14db85b13f4c381605
+      internalID: 630828292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_154
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 270
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1237fe4deb7ee45aa9b7a2ff6d5ef9
+      internalID: -84297779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_155
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 262
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81159c677781bbe4d8a7f4178c5bebf9
+      internalID: 1608197758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_156
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 266
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07629080ebc2a144b54d427f2dc67d9
+      internalID: -1600902951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_157
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 256
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606b46667acff3b41b684b473cd6accb
+      internalID: 1121720919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_158
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 256
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6807275917eb464e87a7d808f10b0d5
+      internalID: -1905750210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_159
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 230
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fc93cedf0588f459c4557954ee8901
+      internalID: -582414363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_160
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 229
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ec0435ab35eab458a02bd63a8ff29c
+      internalID: -729419283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_161
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 226
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfba18c1ca1c3c248b42fb464c4f09d1
+      internalID: 951763132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_162
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 226
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f155bdc248d94d49bf16e23fbeb8e65
+      internalID: 789290510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_163
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 226
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4a549621117cd489c970d3061dd8d2
+      internalID: -1678899147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_164
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 245
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fcac390b72f664e82d6c8854a3f726
+      internalID: -2049448726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_165
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 226
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8a9d55870daaf4996b097cc9055ca9
+      internalID: 338440870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_166
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 192
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5b666b86119354bade8c2705eaa32e
+      internalID: -1634795664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_167
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 192
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182fdab55ad4688419aff028acb29780
+      internalID: -246070257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_168
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4513da2d1dcb05446971f69ec20dbd9d
+      internalID: -1299839369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_169
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 192
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265bd9e9dd09c5e498fc7f48041fad4e
+      internalID: 1271547658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_170
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 195
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a2dd9b8d23b7749ab6f4c07881c128
+      internalID: -1305665214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_171
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 209
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925d92439198b6d40bf3795d2b3ea3e4
+      internalID: 891048974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_172
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 206
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e382b4a154003d246b5cdbd8f9001828
+      internalID: -1546969246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_173
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 199
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8aaeeb816f0804ebe859e401243186
+      internalID: 1222332980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_174
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 164
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2875271586e99b4b8f0ba6c453e9109
+      internalID: -673259838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_175
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 202
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bcc9027c127de44b218f5e83b48ecc
+      internalID: 1114674556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_176
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d1a3998ab0529439875a8a6d5190d1
+      internalID: -1601605405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_177
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 164
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8a2031968f60d48b457078c232f0d5
+      internalID: 895469153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_178
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3d01d839df56145bf0bebbc2960d5f
+      internalID: 635120056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_179
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 165
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701b8c0dd22ab724eba8f6d478244d15
+      internalID: 1092562759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_180
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 164
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84febcaf5b47b75468a15417e7101561
+      internalID: -2019359347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_181
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 137
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a225a469077847e43bfa8bea403e3ae2
+      internalID: -1956163007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_182
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 134
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc99de86477bd948add4352cac082d7
+      internalID: 792820423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_183
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 135
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507da9aa79473ce449e3d86ddda1c258
+      internalID: -1931159393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_184
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 135
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dad98fa8cb56b4db7750754cb31490
+      internalID: -1151561501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_185
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 145
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649a0dd2f71286a459c763e10b2279e2
+      internalID: -1775652424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_186
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 135
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2416354dbdc838048a3aef5cf5b8313f
+      internalID: -1668162370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_187
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 148
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bd4de18f202274386f22b6ac7c3476
+      internalID: 1400582843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_188
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 134
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e86c4df11560a43ad7ceea18bd1e80
+      internalID: -453026381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_189
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 134
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00746a54635b4404dab52a9828b1e443
+      internalID: -1433731851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_190
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 134
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3581a685e2030ec42ad98fb9b57ca9d6
+      internalID: 200657248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_191
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 104
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973d491b0a376284e811df33fccb3d6d
+      internalID: -1877506228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_192
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 101
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1c86b84944ff34b9c544ab9e9c7e88
+      internalID: -1497760245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_193
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 101
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0605c7007f9d6554d95a90df5e708b28
+      internalID: -1917296805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_194
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77088608365699442946d0dcc6ab4788
+      internalID: -811678210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_195
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 115
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b5cc2fe62826e419272ecb5c0ffe8c
+      internalID: -368748770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_196
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 115
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00303ec0b7c136345a78a8b595574afd
+      internalID: 1310617355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_197
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 119
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba943ae9db1af647907ec2ed57439f5
+      internalID: -1233896702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_198
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 119
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f972afe36c305a84ba6713063afd426c
+      internalID: -1600986223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_199
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 100
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59e1f9f9f6f0944782ea1bd80307df2
+      internalID: 245891158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_200
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 100
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b615887c2658e4188f9451f9f46f30
+      internalID: 1090437022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_201
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 100
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c404ce590d38ff74fa73c30244162f7e
+      internalID: 1276898131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_202
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 100
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1067d9c61408af64f837484b3a2812ff
+      internalID: 44528020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_203
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 74
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a885e6633cb08f641adb30d2d9fb3d8b
+      internalID: -1410992799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_204
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 74
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de9ed17c42c48745aa312857e410d13
+      internalID: -1865863282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_205
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9de5d1d4cc4ba40a3ce3dcb64d0767
+      internalID: -2087678968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_206
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 69
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa49691fee1e56488887f9bb4db7308
+      internalID: 943497874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_207
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 66
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283b6f6043c22674eaedb971e2c0c9db
+      internalID: 920979766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_208
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7de8510f23cb604aa20bdc0499a9c7c
+      internalID: 1496961360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_209
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531182dd09122c94eaf7cfdd1be2b022
+      internalID: -591250922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_210
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0844aa1744ead8046b1fc09678c6c2ff
+      internalID: 351644893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_211
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 33
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167bc06662389b84eb1db26ea0e1233c
+      internalID: 1141978807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_212
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 33
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dced7c57003ddce4080d923d9740e5da
+      internalID: -1081582808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_213
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 34
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254968c72b6b6b64f89c8af4ff5452b6
+      internalID: 516318132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_214
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 34
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b55fa00f0dbf9438f8517fbbe60114
+      internalID: 1686983756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_215
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7ab11adb6963048940978f09c8e8bd
+      internalID: -1748214689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_216
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 5
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3267505802c584fadeecf5a910c05f
+      internalID: -1762456448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_217
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 4
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2af062622311f4ab78028c386d783b
+      internalID: 238416286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_218
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78cbed22e81e914d835b848b6b6d13a
+      internalID: -1713970418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_219
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9cab3071647324b8727c781757886e
+      internalID: -321815726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletBlue_220
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1374df9d142e02e4ea9262eba29ff7e1
+      internalID: 1721754512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BulletBlue_0: 835697790
+      BulletBlue_1: 534867722
+      BulletBlue_10: -1358050096
+      BulletBlue_100: 989265480
+      BulletBlue_101: 1664942796
+      BulletBlue_102: -1722402233
+      BulletBlue_103: 1562141816
+      BulletBlue_104: -1710455889
+      BulletBlue_105: -269000844
+      BulletBlue_106: 1023150445
+      BulletBlue_107: -27559062
+      BulletBlue_108: -1208022336
+      BulletBlue_109: -576278135
+      BulletBlue_11: 840569965
+      BulletBlue_110: 974666895
+      BulletBlue_111: 48504946
+      BulletBlue_112: -1604394892
+      BulletBlue_113: 70770106
+      BulletBlue_114: 1060837427
+      BulletBlue_115: 1842749548
+      BulletBlue_116: -868962354
+      BulletBlue_117: 465618716
+      BulletBlue_118: -1202113745
+      BulletBlue_119: -1272970285
+      BulletBlue_12: -1510469429
+      BulletBlue_120: -1707065251
+      BulletBlue_121: 1209396713
+      BulletBlue_122: -402620409
+      BulletBlue_123: 19551679
+      BulletBlue_124: 815552866
+      BulletBlue_125: -488685640
+      BulletBlue_126: -1436700637
+      BulletBlue_127: -1561526217
+      BulletBlue_128: 1671651047
+      BulletBlue_129: -1899366017
+      BulletBlue_13: -680405876
+      BulletBlue_130: -860279904
+      BulletBlue_131: 646067388
+      BulletBlue_132: 858902373
+      BulletBlue_133: 653453955
+      BulletBlue_134: -676267761
+      BulletBlue_135: -822063989
+      BulletBlue_136: -261767807
+      BulletBlue_137: 270183891
+      BulletBlue_138: -1985495945
+      BulletBlue_139: -39968669
+      BulletBlue_14: -962661682
+      BulletBlue_140: 1323934094
+      BulletBlue_141: -1579759375
+      BulletBlue_142: -429325444
+      BulletBlue_143: 303086980
+      BulletBlue_144: -1837718202
+      BulletBlue_145: -1654104489
+      BulletBlue_146: 1985748879
+      BulletBlue_147: 1430169550
+      BulletBlue_148: 1359549431
+      BulletBlue_149: -1673300640
+      BulletBlue_15: 1192760735
+      BulletBlue_150: 1055244208
+      BulletBlue_151: 602221332
+      BulletBlue_152: -1368909001
+      BulletBlue_153: 630828292
+      BulletBlue_154: -84297779
+      BulletBlue_155: 1608197758
+      BulletBlue_156: -1600902951
+      BulletBlue_157: 1121720919
+      BulletBlue_158: -1905750210
+      BulletBlue_159: -582414363
+      BulletBlue_16: 1945188123
+      BulletBlue_160: -729419283
+      BulletBlue_161: 951763132
+      BulletBlue_162: 789290510
+      BulletBlue_163: -1678899147
+      BulletBlue_164: -2049448726
+      BulletBlue_165: 338440870
+      BulletBlue_166: -1634795664
+      BulletBlue_167: -246070257
+      BulletBlue_168: -1299839369
+      BulletBlue_169: 1271547658
+      BulletBlue_17: 1153085826
+      BulletBlue_170: -1305665214
+      BulletBlue_171: 891048974
+      BulletBlue_172: -1546969246
+      BulletBlue_173: 1222332980
+      BulletBlue_174: -673259838
+      BulletBlue_175: 1114674556
+      BulletBlue_176: -1601605405
+      BulletBlue_177: 895469153
+      BulletBlue_178: 635120056
+      BulletBlue_179: 1092562759
+      BulletBlue_18: -6056420
+      BulletBlue_180: -2019359347
+      BulletBlue_181: -1956163007
+      BulletBlue_182: 792820423
+      BulletBlue_183: -1931159393
+      BulletBlue_184: -1151561501
+      BulletBlue_185: -1775652424
+      BulletBlue_186: -1668162370
+      BulletBlue_187: 1400582843
+      BulletBlue_188: -453026381
+      BulletBlue_189: -1433731851
+      BulletBlue_19: 160223318
+      BulletBlue_190: 200657248
+      BulletBlue_191: -1877506228
+      BulletBlue_192: -1497760245
+      BulletBlue_193: -1917296805
+      BulletBlue_194: -811678210
+      BulletBlue_195: -368748770
+      BulletBlue_196: 1310617355
+      BulletBlue_197: -1233896702
+      BulletBlue_198: -1600986223
+      BulletBlue_199: 245891158
+      BulletBlue_2: -109499300
+      BulletBlue_20: 901254129
+      BulletBlue_200: 1090437022
+      BulletBlue_201: 1276898131
+      BulletBlue_202: 44528020
+      BulletBlue_203: -1410992799
+      BulletBlue_204: -1865863282
+      BulletBlue_205: -2087678968
+      BulletBlue_206: 943497874
+      BulletBlue_207: 920979766
+      BulletBlue_208: 1496961360
+      BulletBlue_209: -591250922
+      BulletBlue_21: -299665192
+      BulletBlue_210: 351644893
+      BulletBlue_211: 1141978807
+      BulletBlue_212: -1081582808
+      BulletBlue_213: 516318132
+      BulletBlue_214: 1686983756
+      BulletBlue_215: -1748214689
+      BulletBlue_216: -1762456448
+      BulletBlue_217: 238416286
+      BulletBlue_218: -1713970418
+      BulletBlue_219: -321815726
+      BulletBlue_22: -2006118003
+      BulletBlue_220: 1721754512
+      BulletBlue_23: 907373731
+      BulletBlue_24: -224692102
+      BulletBlue_25: 1331477163
+      BulletBlue_26: 2094381040
+      BulletBlue_27: -511858183
+      BulletBlue_28: -1141355835
+      BulletBlue_29: 1775884201
+      BulletBlue_3: 1324245224
+      BulletBlue_30: -1906379383
+      BulletBlue_31: 1649518724
+      BulletBlue_32: 357999008
+      BulletBlue_33: -1338815998
+      BulletBlue_34: -857476631
+      BulletBlue_35: 814807908
+      BulletBlue_36: 717107200
+      BulletBlue_37: 113825476
+      BulletBlue_38: -163798801
+      BulletBlue_39: 617829637
+      BulletBlue_4: -1294068055
+      BulletBlue_40: 4330256
+      BulletBlue_41: 1448722113
+      BulletBlue_42: -1686351806
+      BulletBlue_43: 1300918949
+      BulletBlue_44: 681551400
+      BulletBlue_45: -671837509
+      BulletBlue_46: 733190141
+      BulletBlue_47: -1741030278
+      BulletBlue_48: -2056400141
+      BulletBlue_49: 976461457
+      BulletBlue_5: 1493573427
+      BulletBlue_50: -785758418
+      BulletBlue_51: 1375228821
+      BulletBlue_52: -1377194043
+      BulletBlue_53: 357770851
+      BulletBlue_54: 437191098
+      BulletBlue_55: -608141790
+      BulletBlue_56: -997838697
+      BulletBlue_57: 1655857763
+      BulletBlue_58: 81605168
+      BulletBlue_59: -1370947877
+      BulletBlue_6: 212258084
+      BulletBlue_60: 930552944
+      BulletBlue_61: -2055174070
+      BulletBlue_62: -1076118071
+      BulletBlue_63: -471268527
+      BulletBlue_64: -1365967820
+      BulletBlue_65: 1384181523
+      BulletBlue_66: 1963480471
+      BulletBlue_67: -1758755716
+      BulletBlue_68: 999944389
+      BulletBlue_69: -1867611172
+      BulletBlue_7: 1391517751
+      BulletBlue_70: -1531736094
+      BulletBlue_71: -1688407088
+      BulletBlue_72: -1244176300
+      BulletBlue_73: -1635859357
+      BulletBlue_74: -1744620689
+      BulletBlue_75: -1851052912
+      BulletBlue_76: -744778614
+      BulletBlue_77: -1687493351
+      BulletBlue_78: 2121433620
+      BulletBlue_79: 203910921
+      BulletBlue_8: 1671501946
+      BulletBlue_80: -771280265
+      BulletBlue_81: 1388965137
+      BulletBlue_82: 709837005
+      BulletBlue_83: -1080042967
+      BulletBlue_84: -1926511763
+      BulletBlue_85: -1300856671
+      BulletBlue_86: 2126474931
+      BulletBlue_87: -1422221781
+      BulletBlue_88: -1020763775
+      BulletBlue_89: -1222411442
+      BulletBlue_9: 2047646446
+      BulletBlue_90: -1244082153
+      BulletBlue_91: 458201834
+      BulletBlue_92: -234429911
+      BulletBlue_93: 1128977812
+      BulletBlue_94: -1564405416
+      BulletBlue_95: -1102885235
+      BulletBlue_96: -2052072697
+      BulletBlue_97: 1717490242
+      BulletBlue_98: -1141152268
+      BulletBlue_99: 389805815
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

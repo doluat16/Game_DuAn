@@ -64,9 +64,10 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.30f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\BulletScript.cs" />
     <Compile Include="Assets\Scripts\Enemy\EnemyPatrol.cs" />
     <Compile Include="Assets\Scripts\Enemy\EnemyFireballHolder.cs" />
-    <Compile Include="Assets\LightningEnergy.cs" />
+    <Compile Include="Assets\HomingBulletScript.cs" />
     <Compile Include="Assets\Scripts\Traps\Bomb.cs" />
     <Compile Include="Assets\Scripts\Traps\EnemyDamage.cs" />
     <Compile Include="Assets\Scripts\Health\Health.cs" />
@@ -76,17 +77,19 @@
     <Compile Include="Assets\Scripts\Health\Healthbar.cs" />
     <Compile Include="Assets\Scripts\Traps\Firetrap.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerAttack.cs" />
+    <Compile Include="Assets\Scripts\EnemyFollowPlayer.cs" />
     <Compile Include="Assets\Scripts\HealthCollectible.cs" />
     <Compile Include="Assets\Scripts\Rooms\Room.cs" />
     <Compile Include="Assets\Scripts\Rooms\Door.cs" />
     <Compile Include="Assets\Scripts\Core\CameraController.cs" />
-    <Compile Include="Assets\MagicTrap.cs" />
     <Compile Include="Assets\Scripts\Player\Projectile.cs" />
     <Compile Include="Assets\Scripts\Enemy\MeleeEnemy.cs" />
+    <Compile Include="Assets\Scripts\MagicTrap.cs" />
     <Compile Include="Assets\Scripts\Traps\Enemy_Sideways.cs" />
     <Compile Include="Assets\Scripts\Enemy\RangedEnemy.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Traps\Spikehead.cs" />
+    <Compile Include="Assets\Scripts\LightningEnergy.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Sprites\Knight Files\Read Me.txt" />
